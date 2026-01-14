@@ -1,0 +1,46 @@
+Info: Processing symbol 'C1:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C3:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C4:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C5:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C6:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C7:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C8:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'J1:Connector:JWT_A3963_1x02_P3.96mm_Vertical'.
+Info: Processing symbol 'L1:Inductor_SMD:L_6.3x6.3_H3'.
+Info: Processing symbol 'LS1:Buzzer_Beeper:Speaker_CUI_CMR-1206S-67'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U2:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'U3:Package_DIP:DIP-8-16_W7.62mm_Socket'.
+Info: Processing symbol 'U5:Package_DIP:DIP-8-16_W7.62mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-8-16_W7.62mm_Socket'.
+Warning: No net found for component U3 pad 2 (no pin 2 in symbol).
+Warning: No net found for component U3 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U3 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U3 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U3 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U3 pad 1 (no pin 1 in symbol).
+Warning: No net found for component U4 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U4 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U4 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U4 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U4 pad 8 (no pin 8 in symbol).
+
+
+Info: Total warnings: 11, errors: 0.
